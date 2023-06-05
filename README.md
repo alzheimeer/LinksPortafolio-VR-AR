@@ -23,9 +23,14 @@ Links Portafolio De Logros En Unity VR - AR
 # Repositorios
 
 
-https://github.com/alzheimeer/holbertonschool-unity		---		Virtual Reality Specialization
-https://github.com/alzheimeer/0x0B-unity-vr_room		---		Unity - VR Room
-https://github.com/alzheimeer/0x0A-unity-360_video_tour		---		Unity - 360 Video
-https://github.com/alzheimeer/holbertonschool-csharp		---		Csharp
-https://github.com/alzheimeer/0x03-unity-ui
-https://github.com/alzheimeer/0x02-unity-scripting
+##  Virtual Reality Specialization
+- https://github.com/alzheimeer/holbertonschool-unity
+## Unity - VR Room
+- https://github.com/alzheimeer/0x0B-unity-vr_room
+## Unity - 360 Video
+- https://github.com/alzheimeer/0x0A-unity-360_video_tour
+## Csharp
+- https://github.com/alzheimeer/holbertonschool-csharp
+## Otros
+- https://github.com/alzheimeer/0x03-unity-ui
+-  https://github.com/alzheimeer/0x02-unity-scripting
