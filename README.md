@@ -7,11 +7,18 @@ Links Portafolio De Logros En Unity VR - AR
 
 [OPENCV - Python](https://www.youtube.com/watch?v=DfdLfP-d3KQ)
 
+[Modelado De Mi Casa](https://www.youtube.com/watch?v=idl58xHheYM)
 
-https://www.youtube.com/watch?v=idl58xHheYM   ---   Modelado De Mi Casa
-https://www.youtube.com/watch?v=pDkzo1CBZmE   ---   Tour VR 360
-https://www.youtube.com/watch?v=nhXSXizy-FA   ---   VIRTUAL REALITY - VR ROOM - CARDBOARD
-https://twitter.com/Alzheimeer/status/1293410147327500290?s=20   ---   AR TJ PRESENTACION
+[Tour VR 360](https://www.youtube.com/watch?v=pDkzo1CBZmE)
+
+[VIRTUAL REALITY - VR ROOM - CARDBOARD](https://www.youtube.com/watch?v=nhXSXizy-FA)
+
+[AR TJ PRESENTACION](https://twitter.com/Alzheimeer/status/1293410147327500290?s=20)
+
+
+
+   ---   
+   ---   
 
 # Repositorios
 
