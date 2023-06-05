@@ -2,9 +2,8 @@
 Links Portafolio De Logros En Unity VR - AR 
 
 
-[This is an external link to genome.gov](https://www.genome.gov/)
 
-https://www.youtube.com/watch?v=DwuYTMJF2SE   ---   Starting Unity 3D
+[Starting Unity 3D](https://www.youtube.com/watch?v=DwuYTMJF2SE)
 https://www.youtube.com/watch?v=DfdLfP-d3KQ   ---   OPENCV - Python
 https://www.youtube.com/watch?v=idl58xHheYM   ---   Modelado De Mi Casa
 https://www.youtube.com/watch?v=pDkzo1CBZmE   ---   Tour VR 360
