@@ -4,7 +4,10 @@ Links Portafolio De Logros En Unity VR - AR
 
 
 [Starting Unity 3D](https://www.youtube.com/watch?v=DwuYTMJF2SE)
-https://www.youtube.com/watch?v=DfdLfP-d3KQ   ---   OPENCV - Python
+
+[OPENCV - Python](https://www.youtube.com/watch?v=DfdLfP-d3KQ)
+
+
 https://www.youtube.com/watch?v=idl58xHheYM   ---   Modelado De Mi Casa
 https://www.youtube.com/watch?v=pDkzo1CBZmE   ---   Tour VR 360
 https://www.youtube.com/watch?v=nhXSXizy-FA   ---   VIRTUAL REALITY - VR ROOM - CARDBOARD
